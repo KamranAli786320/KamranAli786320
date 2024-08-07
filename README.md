@@ -1,4 +1,4 @@
-![logo](https://github.com/KamranAli786320/KamranAli786320/blob/main/Logo.jpg)
+![logo](https://github.com/KamranAli786320/KamranAli786320/blob/main/logoo.jpg)
 <h1 align="center">Hi 👋, I'm Kamran Ali</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/KamranAli786320/KamranAli786320/blob/main/cover%20pic.gif">
